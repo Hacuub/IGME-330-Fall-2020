@@ -35,8 +35,12 @@
 - Cloud Storage
 
 ## IV. Other Themes
+- Randomness/Chaos/Emergence
+- 
 
 ## V. Projects
 
-
+- [Project 1 - Interactive Sandbox](/project-1.md)
+- [Project 2 - Audio Visualizer](/project-2.md)
+- [Project 3 - Web App of Awesomeness](/project-3.md)
 
