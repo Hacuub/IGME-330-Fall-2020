@@ -7,32 +7,22 @@
 
 ### Weekly Outline
 
-- [Week 01 (Jan 13) : Course Intro & Review of Basic Web App Structure](#week1)
-- [Week 02 (Jan 20) : Intro to Canvas Drawing API & Periodic Functions/Algorithmic Botany](#week2)
-- [Week 03 (Jan 27) : IIFEs & Canvas Transformations](#week3)
-- [Week 04 (Feb 03) : Project 1 Prototypes, Drawing Images & Blending Modes](#week4)
-- [Week 05 (Feb 10) : Sprites / ES6 Module Pattern](#week5)
-- [Week 06 (Feb 17) : Intro to Web Audio](#week6)
-- [Week 07 (Feb 24) : Finish Web Audio & Bitmap Manipulation](#week7)
-- [Week 08 (Mar 03) : Catchup / Midterm Exam](#week8)
-- ***\*\*March 08-15 -- Spring Break\*\****
-- ***\*\*March 15-22 -- 2nd "Spring Break"\*\****
-
-<hr>
-
-- [See interstitial.md for revised weeks 10-14 course outline!](./weekly/interstitial.md)
-
-<hr>
-
-<!--
-- [Week 09 (Mar 17) : Constrained Writing and Simple Text Analysis / RiTa Computational Text Library](#week9)
-- [Week 10 (Mar 24) : Context-free Grammars / Web Services Review](#week10)
-- [Week 11 (Mar 31) : Node.js + More Web Services](#week11)
-- [Week 12 (Apr 06) : Vue.js & MVVM](#week12)
-- [Week 13 (Apr 13) : Cloud Data & JavaScript Topics](#week13)
-- [Week 14 (Apr 20) : Review & Final Exam](#week14)
+- [Week 01 (Aug 19) : (Begins on Wednesday) Course Intro & Review of Basic Web App Structure](#week1)
+- [Week 02 (Aug 24) : Intro to Canvas Drawing API & Periodic Functions/Algorithmic Botany](#week2)
+- [Week 03 (Aug 31) : IIFEs & Canvas Transformations](#week3)
+- [Week 04 (Sep 07) : Project 1 Prototypes, Drawing Images & Blending Modes](#week4)
+- [Week 05 (Sep 14) : Sprites / ES6 Module Pattern](#week5)
+- [Week 06 (Sep 21) : Intro to Web Audio](#week6)
+- [Week 07 (Sep 28) : Finish Web Audio & Bitmap Manipulation](#week7)
+- [Week 08 (Oct 05) : Catchup / Midterm Exam](#week8)
+- [Week 09 (Oct 12) : Constrained Writing and Simple Text Analysis / RiTa Computational Text Library](#week9)
+- [Week 10 (Oct 19) : Context-free Grammars / Web Services Review](#week10)
+- [Week 11 (Oct 26) : Node.js + More Web Services](#week11)
+- [Week 12 (Nov 02) : Vue.js & MVVM](#week12)
+- [Week 13 (Nov 09) : Cloud Data & JavaScript Topics](#week13)
+- [Week 14 (Nov 16) : Review & Final Exam](#week14)
 - [Finals Week Meeting](#finalsweek)
--->
+
 
 
 
@@ -68,14 +58,6 @@
   - [Week 8A - Catchup](weekly/week-08A-notes.md)
   - [Week 8B - Midterm Exam](weekly/week-08B-notes.md)
 
-<hr>
-
-- [See interstitial.md for revised weeks 10-14 course outline!](./weekly/interstitial.md)
-
-<hr>
-
-<!--
-
 ## <a id="week9">Week 9 :  Begin Computational Text Unit Constrained Writing and Simple Text Analysis / Computational Literature
   - [Week 9A - Constrained Writing and Simple Text Analysis](weekly/week-09A-notes.md)
   - [Week 9B - Computational Literature with RiTa](weekly/week-09B-notes.md) 
@@ -103,7 +85,6 @@
 ## <a id="finalsweek">Finals Week Meeting
   - All sections will have already taken the final written exam on the last day of class, and will all be meeting finals week to present final projects. Check SIS for your section's meeting time and location
   
-  -->
 
 <hr>
 
