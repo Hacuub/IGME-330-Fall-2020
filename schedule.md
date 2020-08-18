@@ -7,7 +7,7 @@
 
 ### Weekly Outline
 
-- [Week 00 (Aug 19) : (Begins on Wednesday) Welcome to Course/Expectations](#week1)
+- [Week 00 (Aug 19) : (Begins on Wednesday) Welcome to Course & Expectations](#week1)
 - [Week 01 (Aug 24) : Course Intro & Review of Basic Web App Structure](#week1)
 - [Week 02 (Aug 31) : Intro to Canvas Drawing API & Periodic Functions/Algorithmic Botany](#week2)
 - [Week 03 (Aug 07) : IIFEs & Canvas Transformations](#week3)
