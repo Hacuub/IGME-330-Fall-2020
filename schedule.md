@@ -7,23 +7,22 @@
 
 ### Weekly Outline
 
-- [Week 01 (Aug 19) : (Begins on Wednesday) Course Intro & Review of Basic Web App Structure](#week1)
-- [Week 02 (Aug 24) : Intro to Canvas Drawing API & Periodic Functions/Algorithmic Botany](#week2)
-- [Week 03 (Aug 31) : IIFEs & Canvas Transformations](#week3)
-- [Week 04 (Sep 07) : Project 1 Prototypes, Drawing Images & Blending Modes](#week4)
-- [Week 05 (Sep 14) : Sprites / ES6 Module Pattern](#week5)
-- [Week 06 (Sep 21) : Intro to Web Audio](#week6)
-- [Week 07 (Sep 28) : Finish Web Audio & Bitmap Manipulation](#week7)
-- [Week 08 (Oct 05) : Catchup / Midterm Exam](#week8)
-- [Week 09 (Oct 12) : Constrained Writing and Simple Text Analysis / RiTa Computational Text Library](#week9)
-- [Week 10 (Oct 19) : Context-free Grammars / Web Services Review](#week10)
-- [Week 11 (Oct 26) : Node.js + More Web Services](#week11)
-- [Week 12 (Nov 02) : Vue.js & MVVM](#week12)
-- [Week 13 (Nov 09) : Cloud Data & JavaScript Topics](#week13)
-- [Week 14 (Nov 16) : Review & Final Exam](#week14)
+- [Week 00 (Aug 19) : (Begins on Wednesday) Welcome to Course/Expectations](#week1)
+- [Week 01 (Aug 24) : Course Intro & Review of Basic Web App Structure](#week1)
+- [Week 02 (Aug 31) : Intro to Canvas Drawing API & Periodic Functions/Algorithmic Botany](#week2)
+- [Week 03 (Aug 07) : IIFEs & Canvas Transformations](#week3)
+- [Week 04 (Sep 14) : Project 1 Prototypes, Drawing Images & Blending Modes](#week4)
+- [Week 05 (Sep 21) : Sprites / ES6 Module Pattern](#week5)
+- [Week 06 (Sep 28) : Intro to Web Audio](#week6)
+- [Week 07 (Oct 05) : Finish Web Audio & Bitmap Manipulation](#week7)
+- [Week 08 (Oct 12) : Catchup / Midterm Exam](#week8)
+- [Week 09 (Oct 19) : Constrained Writing and Simple Text Analysis / RiTa Computational Text Library](#week9)
+- [Week 10 (Oct 26) : Context-free Grammars / Web Services Review](#week10)
+- [Week 11 (Nov 02) : Node.js + More Web Services](#week11)
+- [Week 12 (Nov 09) : Vue.js & MVVM](#week12)
+- [Week 13 (Nov 16) : Cloud Data & JavaScript Topics](#week13)
+- [Week 14 (Nov 23) : Review & Final Exam](#week14)
 - [Finals Week Meeting](#finalsweek)
-
-
 
 
 ## <a id="week1">Week 1 : Course Intro & Review of Basic Web App Structure
