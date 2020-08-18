@@ -21,7 +21,7 @@
 - [Week 11 (Nov 02) : Node.js + More Web Services](#week11)
 - [Week 12 (Nov 09) : Vue.js & MVVM](#week12)
 - [Week 13 (Nov 16) : Cloud Data & JavaScript Topics](#week13)
-- [Week 14 (Nov 23) : Review & Final Exam](#week14)
+- [Week 14 (Nov 23) : Review & Final Exam (Tuesday 11/24 is last day of scheduled classes)](#week14)
 - [Finals Week Meeting](#finalsweek)
 
 
