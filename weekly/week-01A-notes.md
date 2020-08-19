@@ -39,6 +39,8 @@ Official description from SIS: *This course provides students the opportunity to
 
 ***WEEK-0 COMMUNICATION***
 
+- What name do you call me?
+  - "Professor", "Professor Jefferson", or "Tony" all work
 - Discord
   - Invites:
     - Change your nickname to your real name & section (ex. "Grace Hopper 01")
