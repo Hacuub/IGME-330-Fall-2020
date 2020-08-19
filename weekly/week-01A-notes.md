@@ -93,11 +93,10 @@ Official description from SIS: *This course provides students the opportunity to
 	<meta charset="utf-8" />
 	<title>Starter Page</title>
 	<style></style>
-	<script>
-	</script>
+	<script></script>
 </head>
 <body>
-<p>Something awesome goes here ...</p>
+<p>... something awesome goes here ...</p>
 </body>
 </html>
 ```
