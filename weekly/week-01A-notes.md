@@ -61,8 +61,8 @@ Official description from SIS: *This course provides students the opportunity to
       
 ***WEEK-0 ASSIGNMENT***
 
-- Due before we meet again - see myCourses dropbox
-- https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md
+- *Technobabble* is due before we meet again - see myCourses dropbox
+  - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md
 
 ***WEEK-0 INTRODUCTIONS ("Do I have to? - YES!)***
 - Introductions - we'll do this alphabetically - so be ready:
