@@ -36,7 +36,9 @@ Official description from SIS: *This course provides students the opportunity to
 - Please get to class on time! Lectures will begin promptly at the start of class.
 
 <hr>
+
 ***WEEK-0 COMMUNICATION***
+
 - Discord
   - Invites:
     - Change your nickname to your real name & section (ex. "Grace Hopper 01")
@@ -58,6 +60,7 @@ Official description from SIS: *This course provides students the opportunity to
 
       
 ***WEEK-0 ASSIGNMENT***
+
 - Due before we meet again - see myCourses dropbox
 - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md
 
