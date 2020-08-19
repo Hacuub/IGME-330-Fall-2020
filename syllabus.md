@@ -42,7 +42,7 @@ Final course grades are determined using the following scale:
 | 65+%	| D |
 | <65%	| F |
 
-### Projects (65%)
+### Projects (60%)
 * Project 1 (10%) - [Interactive Sandbox](projects/project-1.md)
 * Project 2 (20%) - [Audio Visualizer](projects/project-2.md)
 * Project 3 (30%) - [MVVM Web Application](projects/project-3.md)
