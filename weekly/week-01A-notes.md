@@ -45,8 +45,8 @@ Official description from SIS: *This course provides students the opportunity to
     - Post an Intro
   - Professional/SFW: Be aware of your status text (ex. "f-ing losing at Fortnight!" won't cut it)
 - Zoom Professionalism
-    - Article link (paywalled):
-    - The PDF is in myCourses
+    - Article link (paywalled): https://www.wsj.com/articles/seven-rules-of-zoom-meeting-etiquette-from-the-pros-11594551601
+    - The PDF of this article is in myCourses
     - Zoom - hold space bar to talk. But before you ask a question, first ask yourself "will others benefit from this question?"
       - if you are not sure they will, then post to the class Discord `#live-chat` channel
  - Participation/Engagement (10% of grade)
