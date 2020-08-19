@@ -84,6 +84,24 @@ Official description from SIS: *This course provides students the opportunity to
 
 ## VI. Starter Code
 
+**starter.html**
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Starter Page</title>
+	<style></style>
+	<script>
+	</script>
+</head>
+<body>
+<p>Something awesome goes here ...</p>
+</body>
+</html>
+```
+
 <a id="review-questions"></a>
  
 ## VII. Today's topic - JavaScript/DOM Review & Demo
