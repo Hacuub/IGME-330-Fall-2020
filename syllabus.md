@@ -9,50 +9,12 @@
 
 ## III. Instructor and Class Details 
 
-### Section 01
+### Sections 01-03
 - Professor: Tony Jefferson  
-- Teaching Assistant: TBA
-- Office:  GOL-2525
 - Email: tony@mail.rit.edu
 - Office hours:
-  - TR 10:00AM - 10:50AM
-  - R  12:30PM - 01:50PM
+  - email by appointment
   - other hours available by appointment
-- Class meetings: TR 3:30PM - 4:45PM in MSS-3110
-- Finals Week Meeting: Tuesday 5/5/2020, from 1:30PM - 4:00PM, in MSS-3110
-
-### Section 02
-- Professor: Andrew Wheeland 
-- Teaching Assistant: Nick Mercadante 
-- Office:  GOL-2547 (but working from home for the foreseeable future)
-- Email: anwigm@rit.edu (Discord contact strongly preferred)
-- Office hours (I'll be available for a Zoom meeting at these times, but I'll be available on Discord at plenty of other times):
-  - M  04:00PM - 05:00PM
-  - T  10:00AM - 12:00PM
-  - R  10:00AM - 12:00PM
-- Class meetings: No more face-to-face meetings.
-- Finals Week Meeting: No finals week meeting, but you'll be submitting a final project during finals week.  Exact date TBD.
-
-### Section 03
-- Professor: Tony Jefferson  
-- Teaching Assistant: Coehl Gleckner
-- Office:  GOL-2525
-- Email: tony@mail.rit.edu
-- Office hours:
-  - TR 10:00AM - 10:50AM
-  - R  12:30PM - 01:50PM
-  - other hours available by appointment
-- Class meetings: TR 11:00AM - 12:15PM in GOL-2435
-- Finals Week Meeting: Tuesday 5/5/2020, from 10:45AM - 1:15PM, in GOL-2435
-
-### Section 04
-- Professor: Noah Bast
-- Teaching Assistant: Justin Dennis
-- Office:  
-- Email: nbbigm@rit.edu
-- Office hours: After class or by appointment
-- Class meetings: TR 5:00PM - 06:15PM in ORN-1375
-- Finals Week Meeting: Thursday 4/30/2020, from 7:00PM - 9:30PM, in ORN-1375
 
 ## IV. Course Materials and Communication
 - most of the course content will be located on this GitHub site
@@ -82,14 +44,12 @@ Final course grades are determined using the following scale:
 
 ### Projects (65%)
 * Project 1 (10%) - [Interactive Sandbox](projects/project-1.md)
-* Project 2 (25%) - [Audio Visualizer](projects/project-2.md)
+* Project 2 (20%) - [Audio Visualizer](projects/project-2.md)
 * Project 3 (30%) - [MVVM Web Application](projects/project-3.md)
 
 
-### Exams (15%)
-These exams consist of short answer, multiple choice, and "write some code" questions. There will be no make-ups or re-takes allowed without prior permission.
-* **Written Midterm Exam**  - will be given the second class meeting of the 7th week of the semester, which is Thursday February 27th
-<!--* **Written Final Exam** - will be given on the last regular class meeting of the semester, which is Thursday April 24th -->
+### Quizzes (15%)
+These quizzes (3-4 during semester) consist of short answer, multiple choice, and "write some code" questions. There will be no make-ups or re-takes allowed without prior permission.
 
 ### Homework (15%)
 Completing the HW and in-class exercises is essential to learning the course material. You can expect an average of one HW assignment per class meeting. Keep an eye on the mycourses dropboxes for the dues dates of these assignments.
@@ -98,8 +58,8 @@ Homework and ICEs will NOT be accepted late without a valid excuse (procrastinat
 
 **Important!** - When you submit web file(s) (HTML,CSS,JavaScript) to mycourses dropboxes, they (or the folder they are contained in) must be zipped. If you do not do so, mycourses will strip out all of the CSS and JavaScript, and leave you with a non-functioning and ugly web page. Unzipped assignments will therefore usually receive a grade of zero.
 
-### Attendance & Participation (5%)
-Note: 1 absence 4/5 points, 2 absences 3/5 points, 3 absences 1.5/5 points, 4 absences 0/5 points. **Each additional absence is 5% off of final average.** Arriving late is 1/2 absence. Facebooking or similar off-task activity during lectures or demos will count as an absence for the day.
+### Attendance & Participation (10%)
+
 
 ### Policy on Incomplete Grades
 Incomplete grades will be given only in the most exceptional circumstances, soley for issues that arise AFTER the 'W' deadline has passed at the end of week 11, and then only by prior arrangement with the professor. Being overcommitted, overwhelmed, and/or not having enough time to complete your coursework is not sufficient justification for an "I". Instead, meet with the professor ASAP as early as possible in the semester if you're having difficulty. 
@@ -110,8 +70,7 @@ Incomplete grades will be given only in the most exceptional circumstances, sole
 - **Duplicate submission** is the submitting of the same or similar work for credit in more than one course without prior approval of the instructors for those same courses. *If you took IGME-330 previously, you **may not hand** in code that you previously submitted (for example, a previous version Project 1 Audio Visualizer)*
 
 ## VII. Important RIT Deadlines
-- Last day of add/drop is Tuesday January 21, 2020.
-- Last day to withdraw with a grade of "W" is Friday April 3rd, 2020.
+- Note the deadlines for Add/Drop & "W" here: https://www.rit.edu/calendar
 - You have one semester after the class has ended to challenge your grade. 
 
 ## VIII. Notices of Accommodation
