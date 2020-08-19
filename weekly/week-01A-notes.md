@@ -35,6 +35,42 @@ Official description from SIS: *This course provides students the opportunity to
 - The due dates for these assignments will be clustered around the same days, often on Sunday night. This means that you should plan ahead, and not try to tackle them all in the last hour before they are due.
 - Please get to class on time! Lectures will begin promptly at the start of class.
 
+<hr>
+***WEEK-0 COMMUNICATION***
+- Discord
+  - Invites:
+    - Change your nickname to your real name & section (ex. "Grace Hopper 01")
+    - Post an Intro
+  - Professional/SFW: Be aware of your status text (ex. "f-ing losing at Fortnight!" won't cut it)
+- Zoom Professionalism
+    - Article link (paywalled):
+    - The PDF is in myCourses
+    - Zoom - hold space bar to talk. But before you ask a question, first ask yourself "will others benefit from this question?"
+      - if you are not sure they will, then post to the class Discord `#live-chat` channel
+ - Participation/Engagement (10% of grade)
+   - Zoom meetings
+     - be on time (there's a waiting room for our Zoom meetings, so it's pretty obvious when someone is late)
+     - keep web cam on, and microphone muted
+     - you could get called on at anytime, so be ready to respond 
+   - Discord Invite & Introduction & Logistics Survey
+     - if I have to ask multiple times, it will hurt your participation grade
+   - There will be several (graded) Discord discussion threads during the semester
+
+      
+***WEEK-0 ASSIGNMENT***
+- Due before we meet again - see myCourses dropbox
+- https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md
+
+***WEEK-0 INTRODUCTIONS ("Do I have to? - YES!)***
+- Introductions - we'll do this alphabetically - so be ready:
+ - 1) name/major/year
+ - 2) where you are physically located right now
+ - 3) your favorite food
+ - 4) something interesting you did this summer
+ - "Next!"
+
+<hr>
+
 ## V. Required Reading & Assignments
 * [syllabus.md](../syllabus.md)
 * [schedule.md](../schedule.md)
