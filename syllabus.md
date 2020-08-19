@@ -13,8 +13,7 @@
 - Professor: Tony Jefferson  
 - Email: tony@mail.rit.edu
 - Office hours:
-  - email by appointment
-  - other hours available by appointment
+  - email for appointment, during the week I will get back to you quickly
 
 ## IV. Course Materials and Communication
 - most of the course content will be located on this GitHub site
