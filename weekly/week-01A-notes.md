@@ -66,7 +66,7 @@ Official description from SIS: *This course provides students the opportunity to
 - *Technobabble* is due before we meet again - see myCourses dropbox
   - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md
 
-***WEEK-0 INTRODUCTIONS ("Do I have to? - YES!)***
+***WEEK-0 INTRODUCTIONS ("Do I have to?" - YES!)***
 - Introductions - we'll do this alphabetically - so be ready:
  - 1) name/major/year
  - 2) where you are physically located right now
