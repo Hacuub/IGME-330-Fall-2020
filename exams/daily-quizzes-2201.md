@@ -85,7 +85,7 @@
     B) "Document Object Model"
      
  
-4) **What is `1 + "1"` evaluate to in JavaScript**
+4) **What does `1 + "1"` evaluate to in JavaScript?**
  
     A) `0`
     
@@ -98,14 +98,16 @@
     E) This code will produce an error
     
     
- 5) **What is `1 - "1"` evaluate to in JavaScript**
+ 5) **In JavaScript, which of the following will convert the string `"10"` to a number?**
  
-    A) `0`
+    A) `+"10"`
     
-    B) `1`
+    B) `(Number)"10"`
     
-    C) `2`
+    C) `Number("10")`
     
-    D) `11`
+    D) `parseInt("10")`
     
-    E) This code will produce an error
+    E) `parseFloat("10")`
+    
+
