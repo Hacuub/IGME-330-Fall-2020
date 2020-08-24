@@ -30,8 +30,38 @@
     
 <hr><hr>
     
-## Week 1
+## Week 1A
 
-1) **JavaScript is __________ typed**
+1) **JavaScript variables are __________ typed**
 
-    A) `double`
+    A) cryptically
+    
+    B) dynamically
+    
+    C) mesozoically
+    
+    D) statically
+    
+    E) strongly
+    
+2) **JavaScript variables can point at the following native types:**
+    
+    __ Array of Floats
+    
+    __ Array of Ints
+    
+    __ Array of Objects
+    
+    __ BigInt
+    
+    __ Boolean
+    
+    __ Float
+    
+    __ Function
+    
+    __ Int
+    
+    __ Object
+    
+    __ String
