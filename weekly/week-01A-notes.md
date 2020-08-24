@@ -183,12 +183,12 @@ We aren't always going to have video links, but here they are in case we run out
 
 ## IX. Today's Activities
 
-- 1) (This lecture is recorded) 
-- 2) Questions from last time?
-- 3) Quick Zoom Poll
-- 4) Review some of the Part VII. notes above
-- 5) Review [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)
-- 6) Begin [Canvas Paint HW - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-paint-app-1.md) - at least through Part VI.
+1) (This lecture is recorded) 
+2) Questions from last time?
+3) Quick Zoom Poll
+4) Review some of the Part VII. notes above
+5) Review [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)
+6) Begin [Canvas Paint HW - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-paint-app-1.md) - at least through Part VI.
 
 
 
