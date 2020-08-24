@@ -44,7 +44,7 @@
     
     E) strongly
     
-2) **JavaScript variables can point at the following native types:**
+2A) **JavaScript variables can point at the following native types:**
     
     __ `Array`
     
@@ -59,6 +59,9 @@
     __ `Double`
     
     __ `Float`
+    
+    
+ 2B) **JavaScript variables can point at the following native types:**
     
     __ `Function`
     
@@ -75,8 +78,34 @@
     __ `Undefined`
     
     
- 3) In a web context, the acronym *DOM* stands for __________
+3) **In a web context, the acronym *DOM* stands for __________**
  
-     A) Nothing
+    A) Nothing
      
-     B) "Document Object Model"
+    B) "Document Object Model"
+     
+ 
+4) **What is `1 + "1"` evaluate to in JavaScript**
+ 
+    A) `0`
+    
+    B) `1`
+    
+    C) `2`
+    
+    D) `11`
+    
+    E) This code will produce an error
+    
+    
+ 5) **What is `1 - "1"` evaluate to in JavaScript**
+ 
+    A) `0`
+    
+    B) `1`
+    
+    C) `2`
+    
+    D) `11`
+    
+    E) This code will produce an error
