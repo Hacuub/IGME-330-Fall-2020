@@ -28,9 +28,10 @@
 
     E) `const sayHi = _ => console.log("Hi!");`
     
+<hr><hr>
     
 ## Week 1
 
-1) **JavaScript is (        ) typed**
+1) **JavaScript is __________ typed**
 
     A) `double`
