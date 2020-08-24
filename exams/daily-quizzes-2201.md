@@ -46,22 +46,37 @@
     
 2) **JavaScript variables can point at the following native types:**
     
+    __ `Array`
+    
     __ Array of Floats
     
     __ Array of Ints
     
-    __ Array of Objects
+    __ `BigInt`
     
-    __ BigInt
+    __ `Boolean`
     
-    __ Boolean
+    __ `Double`
     
-    __ Float
+    __ `Float`
     
-    __ Function
+    __ `Function`
     
-    __ Int
+    __ `Int`
     
-    __ Object
+    __ `null`
     
-    __ String
+    __ `Number`
+    
+    __ `Object`
+    
+    __ `String`
+    
+    __ `Undefined`
+    
+    
+ 3) In a web context, the acronym *DOM* stands for __________
+ 
+     A) Nothing
+     
+     B) "Document Object Model"
