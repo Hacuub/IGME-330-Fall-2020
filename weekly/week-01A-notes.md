@@ -105,7 +105,7 @@ Official description from SIS: *This course provides students the opportunity to
 
 <a id="review-questions"></a>
  
-## VII. Today's topic - JavaScript/DOM Review & Demo
+## VII. Review notes and video on your own - JavaScript/DOM Review & Demo
 
 - 1. What is JavaScript?
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -167,7 +167,7 @@ Official description from SIS: *This course provides students the opportunity to
   - *Imperatively* (using JavaScript) give the paragraph a red text color, and a yellow background color
   - ***Don't forget to ZIP your files when you post to mycourses - otherwise all of your JS and CSS gets stripped out!***
 
-## VIII. Videos of demo
+## VIII. Videos of JS & DOM Review demo
 
 We aren't always going to have video links, but here they are in case we run out of time today:
 
@@ -179,6 +179,19 @@ We aren't always going to have video links, but here they are in case we run out
 - [JSReview-2: Variables and scope (16:12)](https://video.rit.edu/Watch/js-review-2-variables-and-scope)
 - [JSReview-3: Working with DOM & Creating Greeter App (12:19)](https://video.rit.edu/Watch/js-review-3-working-with-dom-A)
 - [JSReview-4: Working with DOM & Refactoring Greeter App (13:26)](https://video.rit.edu/Watch/js-review-4-working-with-dom-B)
+
+
+## IX. Today's Activities
+
+- 1) (This lecture is recorded) 
+- 2) Questions from last time?
+- 3) Quick Zoom Poll
+- 4) Review some of the Part VII. notes above
+- 5) Review [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)
+- 6) Begin [Canvas Paint HW - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-paint-app-1.md) - at least through Part VI.
+
+
+
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
