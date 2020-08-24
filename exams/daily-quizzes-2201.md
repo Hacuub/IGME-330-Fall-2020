@@ -29,4 +29,8 @@
     E) `const sayHi = _ => console.log("Hi!");`
     
     
-    ## Week 1
+## Week 1
+
+1) **JavaScript is (        ) typed**
+
+    A) `double`
