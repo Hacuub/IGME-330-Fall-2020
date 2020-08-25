@@ -187,6 +187,25 @@ We aren't always going to have video links, but here they are in case we run out
 3) Quick Zoom Poll
 4) Questions on [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)?
 5) Review some of the Part VII. notes above and create "Greeter" demo
+
+**greeter-start.html**
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Greeter</title>
+    <style></style>
+    <script></script>
+  </head>
+<body>
+  <button>Click Me!</button>
+  <input id="firstName" placeholder="Type in your name">
+  <p id="output">???</p>
+</body>
+</html>
+```
 6) Begin [Canvas Paint HW - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-paint-app-1.md) - at least through Part VI.
 
 
