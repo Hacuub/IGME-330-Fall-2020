@@ -161,11 +161,10 @@ Official description from SIS: *This course provides students the opportunity to
   - inspecting variable values 
   - viewing the call stack
   - "View Page Source" v. the Debugger's "Inspect Elements" view
-- 5. Easy Homework (add on to this - see mycourses dropbox):
+- 5. Demo:
   - Add a "last name" input so that we can greet the person using both their first and last name
   - *Declaratively* (using CSS) make the button 50 pixels tall by 100 pixels wide
   - *Imperatively* (using JavaScript) give the paragraph a red text color, and a yellow background color
-  - ***Don't forget to ZIP your files when you post to mycourses - otherwise all of your JS and CSS gets stripped out!***
 
 ## VIII. Videos of JS & DOM Review demo
 
@@ -186,8 +185,8 @@ We aren't always going to have video links, but here they are in case we run out
 1) (This lecture is recorded) 
 2) Questions from last time?
 3) Quick Zoom Poll
-4) Review some of the Part VII. notes above
-5) Review [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)
+4) Questions on [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)?
+5) Review some of the Part VII. notes above and create "Greeter" demo
 6) Begin [Canvas Paint HW - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-paint-app-1.md) - at least through Part VI.
 
 
