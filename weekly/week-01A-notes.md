@@ -184,8 +184,8 @@ We aren't always going to have video links, but here they are in case we run out
 
 1) (This lecture is recorded) 
 2) Questions from last time?
-3) Quick Zoom Poll
-4) Questions on [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)?
+3) Questions on [Technobabble](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)?
+4) Quick Zoom Poll
 5) Review some of the Part VII. notes above and create "Greeter" demo
 
 **greeter-start.html**
