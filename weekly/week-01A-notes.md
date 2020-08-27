@@ -206,7 +206,7 @@ We aren't always going to have video links, but here they are in case we run out
 </body>
 </html>
 ```
-6) Begin [Canvas Paint HW - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-paint-app-1.md) - through Part VI. - see dropbox fopr due date          
+6) Begin [Canvas Paint HW - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-paint-app-1.md) - through Part VI. - see dropbox for due date          
 
 
 
