@@ -22,12 +22,14 @@ Today we will:
 - [Randomness and Aesthetics](https://github.com/tonethar/IGME-330-Master/blob/master/notes/randomness-1.md)
 - [Canvas-2 More Canvas](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-2.md) - drawing rings, polygons, `ctx.arcTo()`, `ctx.lineJoin`, line dashes
 
-## V. Demo
+## V. HW Assignment - *Screen Saver with Controls*
 We will keep working on the Screen Saver:
 - add a checkbox to control whether or not rectangles appear
 - add **Pause** and **Play** buttons
 - create a `drawRectangle()` helper function
 - write code that "spray paints" rectangles onto the canvas when we click on it (e.g. like Jackson Pollock, but with digital rectangles instead)
+- see videos "Screen Saver with Controls 1-4" below!
+- see dropbox for due date
 
 **Here's the HTML & CSS for the UI - for your copy/paste pleasure!**
 
@@ -73,9 +75,9 @@ function canvasClicked(e){
 }
 ```
 
-## VI. Stuff you should do on your own
+## VI. Totally optional stuff you should do on your own
 
-**\*\*We are not going to collect this, but it will really help you on Project 1, so you need to follow along - and here are some challenges for you:\*\***
+**\*\*Here are some optional (challenges) for you:\*\***
 
 - add checkboxes to control the production of lines and circles
 - create functions named `drawLine()` and `drawCircle()` (similar to `drawRectangle()` from the demo)
