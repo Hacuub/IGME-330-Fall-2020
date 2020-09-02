@@ -18,7 +18,7 @@ Topics:
     - in the HW we used an "invisible &lt;div>"
     - another way to load custom fonts is the use the [webfontloader](https://github.com/typekit/webfontloader) project - here is a post - [Stack Overflow - Load Custom Font](https://stackoverflow.com/questions/46218500/pixijs-load-custom-font/47299469#47299469) - that explains how to do this for both PixiJS and canvas
  
-![Drawing State Stack](./_images/drawing-stack.jpg)
+![Drawing State Stack](./_images/canvas-drawing-stack.jpg)
   
 2. [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md) - Here we are going to explore common periodic functions by building both a static sine wave, and an animated one, and maybe give you some ideas for Project 1. Be sure to follow along!
 
