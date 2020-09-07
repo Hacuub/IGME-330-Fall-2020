@@ -115,9 +115,17 @@ You (optionally, with a partner) will create a compelling interactive media expe
 ### IV-D. Third-party libraries
 - NOT allowed without advance approval (drawing libraries like *EaselJS* are not allowed, but don't be afraid to ask about others (Physics libraries, etc) - just shoot the prof an email!)
 
-### IV-E. File Structure
+### IV-E. Version Control
+- You are required to have your project code posted to a GitHub repository 
+- If you don't have a GitHub account, go get one now - https://education.github.com/
+- For this project, because of the small number of files you (and potentially a partner) will be working on - you can interact with the repository however you wish:
+  - GitHub's web interface
+  - A Git "client" app
+  - Using a command-line client like [GitBash](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/)
 
-- Your file structure (locally and on banjo) should look like this:
+### IV-F. File Structure
+
+- Your file structure (locally and on GitHub and on banjo) should look like this:
 
 ![screenshot](_images/project-1-file-structure-1.png)
 
