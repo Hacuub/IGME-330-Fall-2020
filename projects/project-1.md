@@ -97,7 +97,7 @@ You (optionally, with a partner) will create a compelling interactive media expe
 - "inline" event handlers - ex. `<button onclick="doStuff();">My Button</button>` are NOT allowed
 
 ### IV-C. User-created JS library
-- we did this in class - see "Screen Saver With Controls-5" and "Screen Saver With Controls-6" linked at the bottom of [week-02A-notes.md](../weekly/week-02A-notes.md)
+- we did this in class - see "Screen Saver With Controls-5" and "Screen Saver With Controls-6" linked at the bottom of [week-03A-notes.md](../weekly/week-03A-notes.md)
 - the file - named `abcLIB.js` - where `abc` are your initials - will:
   - contain some or all of utility functions that we created in class (such as `getRandomColor()`, `getRandomInt()`, `drawRectangle()` etc ...)
   - contain at least 3 (and probably more) useful utility functions that were **created by you**
