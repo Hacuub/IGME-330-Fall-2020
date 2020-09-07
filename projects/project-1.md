@@ -107,7 +107,7 @@ You (optionally, with a partner) will create a compelling interactive media expe
 - [IIFE-review.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/IIFE-review.md) will give you a good idea of how your project is supposed to be architected
   
 ### IV-D. Third-party libraries
-- NOT allowed without advance approval
+- NOT allowed without advance approval (but don't be afraid to ask - just shoot the prof an email!)
   
 <a id="user-experience"/>
 
