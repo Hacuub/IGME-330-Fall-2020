@@ -20,7 +20,7 @@
 
 ## I. Overview
 
-You will create a compelling interactive media experience that allows the user to explore a media-related theme (of your choice)
+You (optionally, with a partner) will create a compelling interactive media experience that allows the user to explore a media-related theme (of your choice)
 
 <a id="theme"/>
 
@@ -33,7 +33,6 @@ You will create a compelling interactive media experience that allows the user t
     - Chaotic Systems --> see [HW - Lorenz Attractor](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-lorenz-attractor.md)
     - Periodic functions --> see [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md)
     - Phyllotaxis --> see [HW - Algorithmic Botany](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-algorithmic-botany.md)
-    - Perlin Noise --> RESOURCES: Coding Train [Coding Challenge #136.1: Polar Perlin Noise Loops](https://www.youtube.com/watch?v=ZI1dmHv3MeM) & [Noisejs](https://github.com/josephg/noisejs)
   - *Emergence*:
     - Conway's *Game of Life* --> see [HW - Life](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-life.md)
     - Reaction Diffusion --> RESOURCE: Coding Train [Coding Challenge #13: Reaction Diffusion Algorithm in p5.js](https://www.youtube.com/watch?v=BV9ny785UNc&t=1431s)
@@ -48,6 +47,7 @@ You will create a compelling interactive media experience that allows the user t
 - *Impact:*
   - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective
   - The app must do something that would be meaningful to the user, allowing them to explore the chosen theme in a compelling way
+  - The code & functionality must go significantly beyond any of the provided "starter" code above
   - The creator of this app should take this assignment seriously ("engage"!) and do their **best work**
   - Here are some examples of the reverse (e.g. these are *counter examples* to be avoided):
     - not implementing specific requirements in the [rubric](#rubric) below
