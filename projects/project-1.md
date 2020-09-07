@@ -118,7 +118,7 @@ You (optionally, with a partner) will create a compelling interactive media expe
 ### IV-E. Version Control
 - You are required to have your project code posted to a GitHub repository 
 - If you don't have a GitHub account, go get one now - https://education.github.com/
-- For this project, because of the small number of files you (and potentially a partner) will be working on - you can interact with the repository however you wish:
+- For this project, because of the small number of files you will be working on (with potentially a partner, and with a high likelihood of *merge conflicts*)  - you can interact with the repository however you wish:
   - GitHub's web interface
   - A Git "client" app
   - Using a command-line client like [GitBash](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/)
