@@ -121,6 +121,8 @@ You (optionally, with a partner) will create a compelling interactive media expe
 
 ![screenshot](_images/project-1-file-structure-1.png)
 
+- and:
+
 ![screenshot](_images/project-1-file-structure-2.png)
   
 <hr>
