@@ -1,4 +1,4 @@
-# Project 1 - *Interactive Sandbox* (DRAFT)
+# Project 1 - *Interactive Sandbox*
 
 [I. Overview](#overview)
 
