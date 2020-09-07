@@ -22,6 +22,8 @@
 
 You (optionally, with a partner) will create a compelling interactive media experience that allows the user to explore a media-related theme (of your choice)
 
+<hr>
+
 <a id="theme"/>
 
 ## II. Theme & Impact
@@ -59,7 +61,9 @@ You (optionally, with a partner) will create a compelling interactive media expe
       - and so on, rather than letting the amount of these to be driven by what the app requires to work well and look good
     - copying/pasting CSS styles and layout from the demos and exercises, rather than creating their own
     - minimal modification/extension of the in-class code that was provided
-    
+ 
+<hr>
+
 <a id="media"/>
 
 ## III. Media
@@ -74,6 +78,8 @@ You (optionally, with a partner) will create a compelling interactive media expe
   - an embedded font (ex. Google Fonts) is required
 - Images:
   - if you end up using images, be sure that they are saved in a web-friendly format (JPEG, PNG or GIF) and *optimized* for web delivery. This means that their resolution (pixel dimensions) and file size are no larger than necessary.
+
+<hr>
 
 <a id="code"/>
 
@@ -108,7 +114,17 @@ You (optionally, with a partner) will create a compelling interactive media expe
   
 ### IV-D. Third-party libraries
 - NOT allowed without advance approval (drawing libraries like *EaselJS* are not allowed, but don't be afraid to ask about others (Physics libraries, etc) - just shoot the prof an email!)
+
+### IV-E. File Structure
+
+- Your file structure (locally and on banjo) should look like this:
+
+![screenshot](_images/project-1-file-structure-1.png)
+
+![screenshot](_images/project-1-file-structure-2.png)
   
+<hr>
+
 <a id="user-experience"/>
 
 ## V. User Experience
@@ -132,6 +148,8 @@ You (optionally, with a partner) will create a compelling interactive media expe
   - where appropriate, HTML controls should have labels with `for` attributes to make UI element selection easier
   - Mouse interaction would be a nice plus, but is not required
 
+<hr>
+
 <a id="examples"/>
 
 ## VI. Examples
@@ -143,6 +161,8 @@ You (optionally, with a partner) will create a compelling interactive media expe
 ### Conway's Game of Life
 
 ![image](_images/life-example.gif)
+
+<hr>
 
 <a id="rubric"/>
 
@@ -196,6 +216,8 @@ You (optionally, with a partner) will create a compelling interactive media expe
 | *Deduction if required prototype is not submitted to dropbox on time* | *(-10)* | |
 | *Deduction if final and complete documentation is not submitted to dropbox on time* | *(-10)* | |
 | *-15% late penalty 0-24 hours after due date, -15% 24-48 hours and so on, means a maximum grad of 85% on any project that is submitted late* | *(-??)* | |
+
+<hr>
 
 <a id="submission"/>
 
