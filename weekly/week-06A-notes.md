@@ -4,6 +4,7 @@
 - Any questions on last week's HW?
   - [Canvas VI - Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md)
   - [ES6 Module Pattern Notes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
+    - also see this for "how to run your code off a web server" - because we'll need that again today (and for the entirety of the Project 2 unit)
 - BTW - everyone knows how to set breakpoints in the browser debugger, right?
   - https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints
 - [Web Audio Visualizer "Home" for IGME-330](https://github.com/tonethar/IGME-330-Master/blob/master/notes/web-audio-visualizer-home.md)
