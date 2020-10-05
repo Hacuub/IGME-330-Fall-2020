@@ -3,6 +3,10 @@
 ## I. Review
 - Any questions on last week's HW?
   - [Canvas VI - Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md)
+    - we will revisit this briefly at some point - mt preferred ES6 class technique
+      - (most) property names begin with an underscore - ex. `_hitpoints`
+      - the public accessor for the property is a "getter" method - ex. `get hitpoints(){return _hitpoints};`
+      - the public mutator for the property is a "setter" method - ex. `set hitpoints(value){value = parseInt(value); if(value >= 1) _hitpoints = value; }`
   - [ES6 Module Pattern Notes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
     - also see this for "how to run your code off a web server" - because we'll need that again today (and for the entirety of the Project 2 unit)
 - BTW - everyone knows how to set breakpoints in the browser debugger, right?
