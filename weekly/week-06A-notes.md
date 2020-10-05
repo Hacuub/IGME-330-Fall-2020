@@ -14,11 +14,11 @@
     - also see this for "how to run your code off a web server" - because we'll need that again today (and for the entirety of the Project 2 unit)
 - BTW - everyone knows how to set breakpoints in the browser debugger, right?
   - https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints
-- [Web Audio Visualizer "Home" for IGME-330](https://github.com/tonethar/IGME-330-Master/blob/master/notes/web-audio-visualizer-home.md)
 
 ## II. Presentation
 
 - [Web Audio I - Build a Simple Audio Visualizer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-1.md)
+- Helpful! --> [Web Audio Visualizer "Home" for IGME-330](https://github.com/tonethar/IGME-330-Master/blob/master/notes/web-audio-visualizer-home.md)
 
 ## III. Homework Assignments
 
