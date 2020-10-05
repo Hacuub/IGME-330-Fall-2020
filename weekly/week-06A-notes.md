@@ -9,6 +9,7 @@
         - ex. `get hitpoints(){return this._hitpoints};`
       - the public mutator for the property is a "setter" method:
         - ex. `set hitpoints(value){value = parseInt(value); if(value >= 1) this._hitpoints = value; }`
+      - see example below
   - [ES6 Module Pattern Notes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
     - also see this for "how to run your code off a web server" - because we'll need that again today (and for the entirety of the Project 2 unit)
 - BTW - everyone knows how to set breakpoints in the browser debugger, right?
