@@ -28,7 +28,7 @@ See myCourses dropboxes for due dates:
   - [HW - Audio Visualizer - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-3.md)
   
   
-# IV. Getter/Setter ES6 Class example
+## IV. Getter/Setter ES6 Class example
 
 - BTW: you can alos use the following technique - getters and setters - with object literals
 
