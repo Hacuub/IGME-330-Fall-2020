@@ -3,12 +3,12 @@
 ## I. Review
 - Any questions on last week's HW?
   - [Canvas VI - Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md)
-    - we will revisit this briefly at some point - mt preferred ES6 class technique
-      - (most) property names begin with an underscore - ex. `_hitpoints`
+    - My preferred ES6 class technique:
+      - (most) property names begin with an underscore as a convention indicating that they are *private* - ex. `_hitpoints`
       - the public accessor for the property is a "getter" method:
-        - ex. `get hitpoints(){return _hitpoints};`
+        - ex. `get hitpoints(){return this._hitpoints};`
       - the public mutator for the property is a "setter" method:
-        - ex. `set hitpoints(value){value = parseInt(value); if(value >= 1) _hitpoints = value; }`
+        - ex. `set hitpoints(value){value = parseInt(value); if(value >= 1) this._hitpoints = value; }`
   - [ES6 Module Pattern Notes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES-6-module-pattern-2195.md)
     - also see this for "how to run your code off a web server" - because we'll need that again today (and for the entirety of the Project 2 unit)
 - BTW - everyone knows how to set breakpoints in the browser debugger, right?
@@ -25,6 +25,63 @@ See myCourses dropboxes for due dates:
   - [HW - Audio Visualizer - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-1.md)
   - [HW - Audio Visualizer - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-2.md)
   - [HW - Audio Visualizer - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-3.md)
+  
+  
+# IV. Getter/Setter ES6 Class example
+
+- BTW: you can alos use the following technique - getters and setters - with object literals
+
+**setter-getter-tester.html**
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Setter Getter Tester</title>
+</head>
+<body>
+
+
+<script>
+	"use strict";
+	class Monster{
+		constructor(species,hitpoints){
+			this._species = species;
+			this._hitpoints = hitpoints;
+		}
+		
+		// read-only
+		get species(){
+			return this._species;
+		}
+		
+		get hitpoints(){
+			return this._hitpoints;
+		}
+		
+		set hitpoints(value){
+			value = parseInt(value); 
+			if(value >= 1) this._hitpoints = value;
+		}
+	
+	}
+	
+	const m1 = new Monster("Orc",10);
+	
+	console.log(m1.species); // calls getter without parentheses
+	console.log(m1.hitpoints); // calls getter without parentheses
+	console.log(m1.hitpoints = 100) // calls setter
+//	m1.species = "Goblin"; // ERROR!
+//	m1._species = "Kobold"; // allowed! :-|
+	console.log(m1.species); 
+	
+
+	
+</script>
+</body>
+</html>
+```
   
 
 <hr><hr>
