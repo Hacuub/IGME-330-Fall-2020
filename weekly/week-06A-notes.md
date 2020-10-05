@@ -72,7 +72,7 @@ See myCourses dropboxes for due dates:
 	
 	console.log(m1.species); // calls getter without parentheses
 	console.log(m1.hitpoints); // calls getter without parentheses
-	console.log(m1.hitpoints = 100) // calls setter
+	console.log(m1.hitpoints = 100) // calls setter and passes in 100 for a `value`
 //	m1.species = "Goblin"; // ERROR!
 //	m1._species = "Kobold"; // allowed! :-|
 	console.log(m1.species); 
