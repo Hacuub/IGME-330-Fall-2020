@@ -30,7 +30,7 @@ See myCourses dropboxes for due dates:
   
 ## IV. Getter/Setter ES6 Class example
 
-- BTW: you can alos use the following technique - getters and setters - with object literals
+- BTW: you can also use the following technique - getters and setters - with object literals
 
 **setter-getter-tester.html**
 
