@@ -16,7 +16,7 @@
     - Who is your partner (or are you working solo, which is fine)?
     - If you want to do more of a game project, and take advantage of the ["OR"](../projects/project-2.md#OR) option
     - If you have a partner, both partners must post
-    - -5% will be deducted from your project grade if you do not post to the discussion thread is locked
+    - -5% will be deducted from your project grade if you do not post to the discussion thread before it is locked
 2) Due in myCourses dropbox **Monday 10/19/2020** (beginning of week 9), start of class: 
     - a working prototype "A" that goes beyond the AV HW assignments
     - we will look at these in class
