@@ -9,7 +9,7 @@
  
 ## IV. Project 2 & Deliverables
 
-[Project 2 - Audio Visualizer](../projects/project-2.md) - **Deliverables:**
+[Project 2 - Audio Visualizer](../projects/project-2.md) - **Deliverables:** (Due dates are one day later for sections 01 & 02, see the dropboxes for your section)
 
 
 1) Due in discussion thread **Wednesday 10/14/2020**, start of class:
