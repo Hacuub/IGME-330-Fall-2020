@@ -15,7 +15,7 @@
 
 
 
-1) Due in discussion thread **Wednesday 10/14/2020**, start of class:
+1) Due in discussion thread **Wednesday 10/14/2020** (week 8), start of class:
     - Who is your partner (or are you working solo, which is fine)?
     - If you want to do more of a game project, and take advantage of the ["OR"](../projects/project-2.md#OR) option
     - If you have a partner, both partners must post
