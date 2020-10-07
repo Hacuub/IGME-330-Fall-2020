@@ -53,9 +53,9 @@
   - [Week 7A - Finish WebAudio](weekly/week-07A-notes.md)
   - [Week 7B - Bitmap Manipulation](weekly/week-07B-notes.md)
  
-## <a id="week8">Week 8 : Catchup / Midterm Exam
+## <a id="week8">Week 8 : Catchup
   - [Week 8A - Catchup](weekly/week-08A-notes.md)
-  - [Week 8B - Midterm Exam](weekly/week-08B-notes.md)
+  - [Week 8B - Catchup](weekly/week-08B-notes.md)
 
 ## <a id="week9">Week 9 :  Begin Computational Text Unit Constrained Writing and Simple Text Analysis / Computational Literature
   - [Week 9A - Constrained Writing and Simple Text Analysis](weekly/week-09A-notes.md)
@@ -77,12 +77,10 @@
   - [Week 13A - Cloud Data](weekly/week-13A-notes.md)
   - [Week 13B - JavaScript Topics](weekly/week-13B-notes.md)
  
-## <a id="week14">Week 14 : Review & Final Exam
-  - [Week 14A - TBA](weekly/week-14A-notes.md)
-  - [Week 14B - Final Written Exam](weekly/week-14B-notes.md)
+## <a id="week14">Week 14 : Catchup
   
 ## <a id="finalsweek">Finals Week Meeting
-  - All sections will have already taken the final written exam on the last day of class, and will all be meeting finals week to present final projects. Check SIS for your section's meeting time and location
+  - We will all be meeting finals week to present final projects. Check SIS for your section's meeting time and location
   
 
 <hr>
