@@ -12,7 +12,7 @@
 [Project 2 - Audio Visualizer](../projects/project-2.md) - **Deliverables:**
 
 
-1) Due in discussion thread **Thursday 2/20/2020**, start of class:
+1) Due in discussion thread **Tuesday 10/13/2020**, start of class:
     - Who is your partner (or are you working solo, which is fine)?
     - If you want to do more of a game project, and take advantage of the ["OR"](../projects/project-2.md#OR) option
 2) Due in myCourses dropbox **Thursday 2/27/2020** (week 7), start of class: 
