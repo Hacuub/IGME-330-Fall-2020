@@ -22,7 +22,7 @@
     - we will look at these in class
     - there is a -10% deduction from the final project 2 grade if this prototype is not submitted to the dropbox
 3) Due in myCourses dropbox **Thursday 10/22/2020** (week 9), 11:59PM: 
-    - working prototype "B" - at a bare minimum a "minimum viable product" that shows your main features and idea - to the dropbox
+    - working prototype "B" - at a bare minimum a "minimum viable product" that shows your main features and idea - and incorporates improvements from any feedback you received - to the dropbox
     - there is a -10% deduction from the final project 2 grade if this prototype is not submitted to the dropbox
 4) Final Project Submission **Sunday 10/25/2020** (beginning of week 9), 11:59PM
     - ... late submissions will NOT be accepted.
