@@ -1,7 +1,6 @@
 # Week 8A - Catchup
 
 - Catchup
-- Answer Midterm Exam Questions
 - Work on Project 2
 
 <hr><hr>
