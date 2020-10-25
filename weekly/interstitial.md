@@ -1,33 +1,10 @@
 # Semester Interstitial 
 
-[I. Overview](#overview)
-
-  - [3/24/2020 - Course "kickoff" meeting](#course-kickoff)
-  - [4/09/2020 - Project 3 "kickoff" meeting](#project3-kickoff)
-
-[II. Outline](#outline)
-
-<hr><hr>
-
 <a id="overview" />
 
 ## I. Overview
 
-<a id="course-kickoff" />
-
-### I-A. 3/24/2020 - Course "kickoff" meeting
-
-1) Course Delivery
-    - For the rest of the semester, to give you all maximum flexibility as to when to access course lectures, all course content will be delivered *asynchronously* via pre-recorded videos and HW assignments
-    - This format is beneficial to those of you who are living in other time zones, lacking high-speed connectivity, or having to share a personal computer or quiet space with other household members during normal working hours. 
-    - IGME-330 has previously been taught (in 2181) as a 100% online course in an asynchronous format, with good results, and we are therefore cautiously optimistic that this semester will go reasonably well for the majority of you
-    - **Going forward from here** --> other than an occasional "all hands" meeting during our originally scheduled class meeting time, we are NOT using a *synchronous* approach where all the students are required to meet online at the same time.
-    
-
-
-2) What are we covering in the next 5 weeks?
-
-    - Outline to first 8 weeks of course is here - aka *IGME-330 - A New Hope* --> [schedule.md](../schedule.md)
+1) What are we covering in the next 5 weeks (including finals week, because we don't have a final) ?
     - Up to now in the course, we have worked with the following media types:
       - a state-driven procedural drawing API (canvas)
       - bitmapped data and Photoshop-style effects (obtained via `canvas.getImageData()`)
@@ -41,94 +18,16 @@
     - understanding these 4 remaining *units* of content is crucial to your success on Project 3
     - some of the content from previous semesters - using the "cloud storage" Firebase API for example - has been made optional and extra credit - see the myCourses dropboxes, and the links at the bottom of this page 
 
+<hr>
 
-
-3) Getting help
-
-    A) Online Office Hours (but you can email your Prof any time!):
-      - Noah Bast - nbbigm@rit.edu
-        - Week 10 (Thursday 3/26) - will be on 330 Discord channel during regularly scheduled classtime 
-        - Remaining weeks - will be on 330 Discord channel during regularly scheduled classtime 
-        - I am generally available via email on Discord outside of those times as well
-      - Tony Jefferson - tony@mail.rit.edu
-          - Week 10 (Tuesday 3/24 & Thursday 3/26)
-            - will be on the 330 Discord channel and available via Zoom from 11AM-Noon, and from 2PM-4PM
-          - Week 11 (Tuesday 3/31 & Thursday 4/2)
-            - will be on the 330 Discord channel and available via Zoom from 11AM-Noon, and from 2PM-4PM
-          - Week 12 (Tuesday 4/07)
-            - will be on the 330 Discord channel and available via Zoom from 11AM-Noon, and from 2PM-4PM
-            - on Thursday 4/09 will be in several "Kickoff" meetings and is best reached via email
-      - Andy Wheeland - anwigm@rit.edu - Discord DM Preferred
-        - Mondays: 4-5pm, Tuesdays/Thursdays: 10am to noon.  Will be on Discord & available through Zoom chat at http://rit.zoom.us/my/anwigm.
-      
-    B) Discord:
-      - IGME-330: https://discord.gg/9ktQfZJ
-      - gccis-igm-tutoring: https://discord.gg/N6gddC8
-
-
-
-4) Final Exam
-    - The final exam has been cancelled. In the overall course rubric, the 15% weight of the final exam has been distributed between Project 2 (weight increased from 20% to 25%) and Project 3 (weight increased from 20% to 30%)
- 
- 
- 
-5) Homework Assignments
-    - Your completion of the remaining assignments is crucial to your successful completion of Project 3. We strongly recommend that you WORK AHEAD on all assignments and complete them well in advance of the due date
-    - If you have time conflict, get sick, have unforeseen responsibilities, and so on, you can get an extension, but you need to:
-        - 1) notify your professor of your situation *in advance* of the due date
-        - 2) propose and commit to a day & time when the work will be completed
-        - 3) your professor will then notify you of a revised due date (which may or may not be the same date that you proposed), and they will then add an *exception* to the dropbox that reflects the new due date
-        - 4) complete and submit the work prior to the expiration of your dropbox exception
-
-
-
-6) Project 3 - Web App of Awesomeness
+2) Project 3 - Web App of Awesomeness
     - the requirements are here —> [Project 3](../projects/project-3.md)
     - we will show some example of completed projects soon
-    - for the presentation requirement, a 1 to 2-minute “demo reel” of the completed project will be required
-    - partners ARE allowed - but you need to email your Prof directly with both your Project proposal, and a detailed explanation of how you and your proposed partner will collaborate remotely, and what each of you individually brings to the partnership
+    - as before, for the presentation requirement, a 1 to 2-minute “demo reel” of the completed project will be required
+    - no partners ARE allowed on this one unless pre-approved - mail me your (ambitious & "highly scoped") proposal
  
  
- 
-7) What are your questions? What did we forget to talk about?
-
-
-<hr><hr>
-
-<a id="project3-kickoff" />
-
-### I-B. 4/09/2020 - Project 3 "kickoff" meeting
-
-1) Welcome (5 minutes):
-    - For fun, if you want, set your background to your favorite (or most feared) animal!
-    - In the chat - tell us what digital entertainment (games, movies) or analog entertainment (board games, cards, yoga, …) that you have been enjoying?
-
-
-2) Let's look over the myCourses Dropboxes - there's one big change:
-    
-    A) The [Vue.js](https://vuejs.org) "reactive" unit is now due Tuesday 5/5 (AFTER the final project) - what gives?!:
-     
-      - Reactive programming is an important topic
-      - and we really don't want you to leave this course without being exposed to it
-      - but its use is *optional* on Project 3
-      - and the Vue.js assignment due dates were conflicting with Project 3 deliverables, and we don't want you all to have to focus on more than one big thing at a time in this course
-      - so, please do these assignments when you have time, it's valuable knowledge to have, and the Vue.js assignments shouldn't take you too long
-      - and do so earlier rather than later as you might wish to use Vue.js in your Project 3
-      - ***Another way to think of this "finals week" Vue HW is that it's replacing our (cancelled) final exam***
-    
-    B) The PHP unit is almost done - hopefully you found value in constructing your own web service - and now understand them better
-    
-    C) The PHP proxy server exercise won't take you too long - and it's handy to know how to create one of these - and you may find it useful on Project 3
-    
-    D) The final unit is Mapbox - which many (if not most) of you will use on Project 3
-    
-    E) Let's look over the Project 3 deliverables - the first one is due soon - but it won't take you too long to complete
-
-
-3) Project 3 - let's look at examples from past semesters
-
-
-4) Project 3 Requirements:
+3) Project 3 Requirements:
     - This course is about the *intersection* between programming and multiple types of *media*
       - Project 1 was about procedural drawing (canvas) and "creative coding" that explored a theme
       - Project 2 worked with canvas, bitmapped images, and analyzing/manipulating audio 
@@ -139,8 +38,6 @@
         - the Project 3 requirements are here --> https://github.com/tonethar/IGME-330-Spring-2020/blob/master/projects/project-3.md
 
 
-5) Please ask Questions!
-
 <hr><hr>
 
 <a id="outline" />
@@ -149,7 +46,7 @@
 
 ## II. Outline
 
-[I. Week 10 - Computational Literature (Mon 3/23-Sun 3/29)](#week10)
+[I. Week 10 - Computational Literature (Mon 10/25-Sun 11/01)](#week10)
 
 [II. Week 11 - PHP - Build your own web service (Mon 3/30-Sun 4/5)](#week11)
 
