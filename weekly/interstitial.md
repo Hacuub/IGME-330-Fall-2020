@@ -63,7 +63,7 @@
 
 <a id="week10">
 
-## I. Week 10 -  Computational Literature (Mon 3/23-Sun 3/29)
+## I. Week 10 -  Computational Literature (Mon 10/25-Sun 11/01)
 ### Lecture Notes
 - [Week 10A - Constrained Writing & Simple Text Analysis](week-10A-NEW.md)
 - [Week 10B - Computational Literature & Context-free grammars with Rita.js](week-10B-NEW.md)
