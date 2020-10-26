@@ -52,7 +52,7 @@
 
 [III. Week 12 - XHR Review & Maps API (Mon 4/6-Sun 4/12)](#week12)
 
-[IV. Week 13 - Finish Map Unit (Mon 4/13-Sun 4/19)](#week13)
+[IV. Week 13 - Finish Map Unit & Vue.js (Mon 4/13-Sun 4/19)](#week13)
 
 [V. Week 14 - Work on Project 3 (Mon 4/20-Sun 4/26)](#week14)
 
