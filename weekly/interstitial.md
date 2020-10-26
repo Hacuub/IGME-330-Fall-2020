@@ -88,7 +88,7 @@
 
 <a id="week11">
 
-## II. Week 11 - PHP - Build your own web service (Mon 3/30-Sun 4/5)
+## II. Week 11 - PHP - Build your own web service (Mon 11/02-Sun 11/8)
 ### Lecture Notes
 - [Week 11A - What is a Web Service? & PHP Intro](week-11A-NEW.md)
 - [Week 11B - Creating a PHP Web Service & passing parameters to it](week-11B-NEW.md)
@@ -110,7 +110,7 @@
 
 <a id="week12">
 
-## III. Week 12 - XHR Review & Maps API (Mon 4/6-Sun 4/12)
+## III. Week 12 - XHR Review & Maps API (Mon 11/9-Sun 11/15)
 ### Lecture Notes
 - [Week 12A - Week 12A - Client-side web applications & PHP Proxy Server](week-12A-NEW.md)
 - [Week 12B - Mapbox API](week-12B-NEW.md)
@@ -132,7 +132,7 @@
 
 <a id="week13">
 
-## IV. Week 13 - MVVM (Mon 4/13-Sun 4/19)
+## IV. Week 13 - MVVM (Mon 11/16-Sun 11/22)
 
 - **Note that Vue.js and MVVM and now *optional* for Project 3, and that the Vue.js dropboxes now close near the end of finals week, Tuesday 5/5**
 - **Week 13 is now devoted to finishing up the Map unit, and moving on to complete the Project 3 deliverables**
@@ -161,7 +161,7 @@
 
 <a id="week14">
 
-## V. Week 14 - Work on Project 3 (Mon 4/20-Sun 4/26)
+## V. Week 14 - Work on Project 3 (Mon 11/23-Tues 11/24)
 - [Week 14A - ](week-14A-NEW.md)
 - [Week 14B - ](week-14B-NEW.md)
 
@@ -185,7 +185,7 @@
 
 <a id="extra-credit">
 
-## VI. Extra Credit (all due 4/20)
+## VI. Extra Credit (all due ??/??)
 - Firebase (Cloud Storage) - see myCourses dropboxes for details:
   - [1 - Intro to Firebase - the Realtime Database](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
   - [2 - Firebase Highscore App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-2.md)
