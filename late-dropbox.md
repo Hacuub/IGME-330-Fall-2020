@@ -1,6 +1,6 @@
 # Web App HW - Late Dropbox
 
-- Created on Monday 11/16
+- Created (in myCourses) on Monday 11/16
 - Closes on Saturday 11/21 at 11:59PM
 - "Last chance" submissions for these HW assignments go here (with a 25% late penalty). These assignments are all very important for the successful completion of Project 3:
   - *HW - Improved Giphy Web Service App*
