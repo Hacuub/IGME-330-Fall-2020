@@ -8,7 +8,9 @@
   - *HW - Maps Part II*
   - *Project 3 Proposal*
 - because some of these dropboxes are now closed, the original instructions are repeated below
-  
+ 
+<hr>
+ 
 ## I. Instructions for *HW - Improved Giphy Web Service App*
 - The notes and Instructions are here: https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-improved-gif-finder.md
 - this shouldn't take too long as most of you already did the first part of this assignment in IGME-230/235
