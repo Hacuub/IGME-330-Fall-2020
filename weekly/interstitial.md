@@ -134,8 +134,7 @@
 
 ## IV. Week 13 - MVVM (Mon 11/16-Sun 11/22)
 
-- **Note that Vue.js and MVVM and now *optional* for Project 3, and that the Vue.js dropboxes now close near the end of finals week, Tuesday 5/5**
-- **Week 13 is now devoted to finishing up the Map unit, and moving on to complete the Project 3 deliverables**
+- **Note that Vue.js and MVVM and now *optional* for Project 3**
 
 ### Lecture Notes
 - [Week 13A - Intro to MVVM & Vue.js ](week-13A-NEW.md)
