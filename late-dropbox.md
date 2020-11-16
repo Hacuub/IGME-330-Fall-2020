@@ -35,16 +35,16 @@
 
 1) In the comments field - give a title for your app, explain what the app does, and how the user will interact with it.
 
-- ex. “Creamwise - the Ice Cream Stand Spotter” - allows users to search for ice cream stands in the five-county area. The user can search for ice cream stands either by name or distance from their current location. They can also view a list of the most highly rated ice cream stands in the area. They can share (via email) the information about a single ice cream stand (using the `<a href=“mailto:”> protocol>
+- ex. *"Creamwise - the Ice Cream Stand Spotter"* - allows users to search for ice cream stands in the five-county area. The user can search for ice cream stands either by name or distance from their current location. They can also view a list of the most highly rated ice cream stands in the area. They can share (via email) the information about a single ice cream stand (using the `<a href="mailto:">` protocol>
 
 2) In the comments field - list the APIs you will use and give links.
 
-- ex. Mapbox, and I was given advance permission to create my own API - rochester-area-stands.php - that has information about ice cream stands. I will pull this data from Yelp, and from local web sites that had “10 best ice cream stands” lists and so on>
+- ex. Mapbox, and I was given advance permission to create my own API - **rochester-area-stands.php** - that has information about ice cream stands. I will pull this data from Yelp, and from local web sites that had “10 best ice cream stands” lists and so on>
 
 3) Create a mockup of a UI - you can use a tool, MS Paint, draw on napkin and take a photo - whatever. Attach a digital image (PNG or JPEG) or PDF of the mockup to the dropbox
 
 4) If you have a partner, tell us who it is, tell us how you will be collaborating, and describe how having a partner will make the app better (who will focus on what features, etc...)
 
--10% from your Project 3 grade if not done - so don't miss this!
+***-10% from your Project 3 grade if not done - so don't miss this!***
 
 Project requirements are here: https://github.com/tonethar/IGME-330-Fall-2020/blob/master/projects/project-3.md
