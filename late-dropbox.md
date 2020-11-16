@@ -3,10 +3,10 @@
 - Created on Monday 11/16
 - Closes on Saturday 11/21 at 11:59PM
 - "Last chance" submissions for these HW assignments go here (with a 25% late penalty). These assignments are all very important for the successful completion of Project 3:
-  - HW - Improved Giphy Web Service App
-  - HW - Maps Part I
-  - HW - Maps Part II
-  - Project 3 Proposal
+  - *HW - Improved Giphy Web Service App*
+  - *HW - Maps Part I*
+  - *HW - Maps Part II*
+  - *Project 3 Proposal*
 - because some of these dropboxes are now closed, the original instructions are repeated below
   
 ## I. Instructions for *HW - Improved Giphy Web Service App*
