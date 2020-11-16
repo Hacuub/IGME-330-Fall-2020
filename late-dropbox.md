@@ -21,7 +21,7 @@
 
 ## II. Instructions for *HW - Maps Part I*
 - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-1.md
-- submission instructions are at the end of the instructions
+- submission instructions are at the end of the page linked above
 
 <hr>
 
@@ -41,7 +41,7 @@
 
 2) In the comments field - list the APIs you will use and give links.
 
-- ex. Mapbox, and I was given advance permission to create my own API - **rochester-area-stands.php** - that has information about ice cream stands. I will pull this data from Yelp, and from local web sites that had “10 best ice cream stands” lists and so on>
+- ex. *I will use the Mapbox API, and I was given advance permission to create my own API - **rochester-area-stands.php** - that has information about ice cream stands. I will pull this data from Yelp, and from local web sites that had “10 best ice cream stands” lists and so on*
 
 3) Create a mockup of a UI - you can use a tool, MS Paint, draw on napkin and take a photo - whatever. Attach a digital image (PNG or JPEG) or PDF of the mockup to the dropbox
 
